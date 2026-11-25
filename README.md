@@ -132,3 +132,9 @@ Good candidates for real PBT would be the money ledger (any sequence of Adds and
 The bundled expertise came from **Impeccable**, used as a fetched reference rather than a power: its audit and onboarding guidelines shaped the scoring, the spacing and type scale, and the motion rules (short, decelerating, and following "Remove animations"). The app's own design tokens in `lib/design/tokens.dart` hold those decisions, so every screen uses the same values.
 
 Third-party tools added through this work include `photo_manager` (for the custom photo picker) and `sqflite_common_ffi` (to run database-backed widget tests on the computer).
+
+
+## License
+
+This project is licensed under the MIT License.
+See the [LICENSE](LICENSE) file for details.
