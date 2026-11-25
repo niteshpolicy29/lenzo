@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Lenzo background (LenzoColors.background), behind the splash screen
+         and every page, so nothing shows a different shade. -->
+    <color name="lenzo_background">#080D0B</color>
+</resources>

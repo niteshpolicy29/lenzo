@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- The Lenzo mark with more room around it on the home screen: shrunk to
+     72% (about 40% of the icon, 60% of the part launchers show). -->
+<inset xmlns:android="http://schemas.android.com/apk/res/android"
+    android:drawable="@mipmap/ic_launcher_foreground"
+    android:inset="14%" />
